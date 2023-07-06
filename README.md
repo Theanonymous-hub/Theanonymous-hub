@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theanonymous-hub&label=Profile%20views&color=0e75b6&style=flat" alt="theanonymous-hub" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theanonymous-hub" alt="theanonymous-hub" /></a> </p>
-
 - 🌱 I’m currently learning **Java,C,Linux**
 
 - 💬 Ask me about **Python, Data Visualization**
@@ -14,10 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prasana-ravichandran-68020a1ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prasana-ravichandran-68020a1ab/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@h190071602003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@h190071602003" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/theanonymous-hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theanonymous-hub" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@prasanna761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@prasanna761" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prasana-ravichandran-68020a1ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@prasana ravichandran" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/prasanaravi29_02?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@h190071602003" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/@theanonymous-hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@theanonymous-hub" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@prasanna761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@prasanna761" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
